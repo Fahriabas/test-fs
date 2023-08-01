@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "username": "fahriabas",
+        "email": "fahriabas@gmail.com",
+        "password": "fahriabas",
+        "role": "Admin"
+    },
+    {
+        "id": 2,
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "role": "Admin"
+    },
+    {
+        "id": 3,
+        "username": "helloworld",
+        "email": "helloworld@gmail.com",
+        "password": "helloworld",
+        "role": "Admin"
+    },
+    {
+        "id": 4,
+        "username": "customer",
+        "email": "customer@gmail.com",
+        "password": "custonmer",
+        "role": "Customer"
+    }
+]
